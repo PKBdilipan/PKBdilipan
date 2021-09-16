@@ -11,6 +11,7 @@ export default class Login extends React.Component{
 componentDidMount() {
 localStorage.removeItem('username');
 }
+// SAmple
 render() {
 
         return (
